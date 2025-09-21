@@ -47,3 +47,8 @@ It provides a dual-alert mechanism combining hardware + software for maximum rel
 - Faster response times by notifying both family and police simultaneously.
 - Economically accessible so it can be deployed at scale in urban and rural areas.
 - Contributes towards safer communities and supports national women’s safety initiatives.
+
+![Image](https://github.com/user-attachments/assets/361dd264-156b-4d5e-9304-763e0b205cd6)
+![Image](https://github.com/user-attachments/assets/e78053bb-cb7e-45e7-b47b-86f01929d789)
+![Image](https://github.com/user-attachments/assets/1d1e0103-9bbd-47a0-80b0-0645dc2add7d)
+![Image](https://github.com/user-attachments/assets/91b12982-c387-4904-8260-902319e848ab)
