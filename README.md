@@ -10,6 +10,7 @@ In emergencies, especially for women’s safety, the time taken to reach out for
 
 Project Draupadi is a Women’s Safety and Emergency Alert System developed for Smart India Hackathon 2025.
 It provides a dual-alert mechanism combining hardware + software for maximum reliability.
+Live Demo - https://www.figma.com/make/jGtiPdTXgc8it7RKmmIKjT/Draupadi-Lite-Prototype?node-id=0-4&t=YuMQzuuFGGgcaEIu-1
 1. Trigger Device (Hardware):
 - A small, affordable device (button/sensor-based) that the victim can press in emergencies.
 - Designed to be portable and cost-effective, so it can be widely adopted.
